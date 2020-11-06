@@ -1,25 +1,23 @@
-<head><link href="styles/style.css" rel="stylesheet" type="text/css">
-html {
-  font-size: 10px
-font-family: 'Kanit', sans-serif;
-</body>
 h2 {
   font-size: 40px;
   text-align: center;
 }
+
 h4 {
 font size: 25 px
 line height:2 
 letter-spacing:2px
 }
+
 p, li {
   font-size: 16px;    
   line-height: 2;
   letter-spacing: 1px;
 html {
   background-color:orange 
-  color:white;/*Le texte de la page sera blanc
+  color:white;
 }
+  
 body {
   width: 600px;
   margin: 0 auto;
